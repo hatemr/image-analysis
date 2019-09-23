@@ -1,5 +1,5 @@
 # image-analysis
-Investigating object detection algorithms and other image-related models.
+These are my notes on object detection algorithms and other image-related models.
 
 # Object Detection algorithms
 Learning about object detection algorithms, including Faster R-CNN and its predecessors.
